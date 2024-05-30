@@ -1,6 +1,6 @@
 # Coding-Journey
 
-Martijn Kuik
+<h1>Martijn Kuik</h1>
 Trying to figure out Python @codeDex
 
 ## #30NitesOfCode:
