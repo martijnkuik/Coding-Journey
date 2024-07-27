@@ -1,0 +1,5 @@
+print(10-5-2024)
+print("Today I feel fantastic!! ")
+print("I want to become a Python programmer")
+print("Breathe in and out, everything wil be alright")
+print("😊")
