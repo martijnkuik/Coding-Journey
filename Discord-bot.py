@@ -4,7 +4,7 @@ import discord
 from dataclasses import dataclass
 
 BOT_TOKEN = "Hidden"
-CHANNEL_ID = 1245495110653710357
+CHANNEL_ID = "Hidden"
 MAX_SESSION_TIME_MINUTES = 45
 
 @dataclass
