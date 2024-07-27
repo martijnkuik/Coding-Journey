@@ -9,4 +9,4 @@ elif height <= 137 and credits !=10:
 elif height >= 137 and credits <= 10:
   print("You dont have enough credits")
 else:
-    print("you are to short and havent have enough credits")
+    print("you are to short and haven't have enough credits")
