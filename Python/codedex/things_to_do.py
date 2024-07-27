@@ -2,7 +2,7 @@ print("Things I want to do\n")
 
 things_to_do = ["Become a Python developer",
                 "Be a good dad ",
-                "Get maried",
+                "Get married",
                 "Enjoy Life",
                 "Get a bigger House",
                 "Stay healthy"]
