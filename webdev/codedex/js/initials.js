@@ -1,0 +1,7 @@
+console.log("M        M   K       K    ")
+console.log("MM      MM   K     K      ")
+console.log("M M    M M   K   K        ")
+console.log("M  M  M  M   K K          ")
+console.log("M   M    M   K   K        ")
+console.log("M        M   K     K      ")
+console.log("M        M   K       K    ")
