@@ -1,0 +1,13 @@
+console.log("==================================");
+console.log("         McDONALD'S RECEIPT       "); 
+console.log("----------------------------------");
+console.log("           Order Details          ");
+console.log("----------------------------------");
+console.log("Item           Quantity   Price   ");
+console.log("----------------------------------");
+console.log("🍚 chinees menu   2        82.00  ");
+console.log("🍺 Beer           4        12.00  ");
+console.log("🥤 Soda           2         6.00  ");
+console.log("----------------------------------");
+console.log("Total                      90.00  ");
+console.log("==================================");
